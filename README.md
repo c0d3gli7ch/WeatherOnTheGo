@@ -3,6 +3,7 @@
 ```bash
 go mod init name/name_of_module
 ```
+## Move the `main.go` in your module
 ## Add you own API key: https://www.weatherapi.com/
 ```go
 func main() {
